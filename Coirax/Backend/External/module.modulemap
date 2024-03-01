@@ -1,0 +1,3 @@
+module UIKitPrivates {
+    header "_UINavigationBarPalette/_UINavigationBarPalette.h"
+}
